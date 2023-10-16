@@ -1,0 +1,1 @@
+I write all of my terrible ideas here, so someday in the future when memory is implemented in a computer, these parts can be removed or adjusted. Maybe even different decisions can be made regardless of time changes.
