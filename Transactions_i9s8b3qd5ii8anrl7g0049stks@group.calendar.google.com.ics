@@ -1,0 +1,844 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Transactions
+X-WR-TIMEZONE:America/Phoenix
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160927
+DTEND;VALUE=DATE:20160928
+DTSTAMP:20231016T211006Z
+UID:CSVConvert1bd794c495d7f23090e13f172c5f256e
+CREATED:19000101T120000Z
+DESCRIPTION:$13.21 - Arco\n$10.85 - Sq *yucatecan Impo Phoenix - Azus : Pos
+  Transaction\n$16.23 - Malani World Merca Phoenix - Azus : Pos Transaction\
+ n$10.85 - Sq *yucatecan Impo Phoenix - Azus : Pos Transaction\n$16.23 - Mal
+ ani World Merca Phoenix - Azus : Pos Transaction\n$13.21 - Arco\n$50.00 - T
+ ransfer\n$594.11 - The Peaks\n$147.98 - Marshall
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$872.67 - Gasoline/Fuel \, Uncategorized \, Transfers \, Restaurant
+ s \, General Merchandise
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160906
+DTEND;VALUE=DATE:20160907
+DTSTAMP:20231016T211006Z
+UID:CSVConvert2dba87d46814af45322a16eba3a96576
+CREATED:19000101T120000Z
+DESCRIPTION:$50.85 - Venmo Inc\n$200.00 - Cash Withdrawal\n$5.00 - Google\n
+ $1.50 - Auto Air & Vacuum - Plainview Nyus : Pos Transaction\n$87.00 - Fant
+ astic Sams\n$200.00 - Deposit\n$56.82 - Ross Stores\, Inc.\n$28.07 - Osha T
+ ha
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Bank Of America Core Checking - Ending in 6063 \, Arizona Checking
+  - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$629.24 - Online Services \, ATM/Cash \, Travel \, Personal Care \,
+  Deposits \, Home Improvement \, Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160910
+DTEND;VALUE=DATE:20160911
+DTSTAMP:20231016T211006Z
+UID:CSVConvert2ee8bb7e2a07534f8c01e83b4fba92bf
+CREATED:19000101T120000Z
+DESCRIPTION:$44.03 - Ulta\n$44.03 - Ulta\n$7.00 - One Stop Shop\n$15.00 - S
+ afewa
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$110.06 - Personal Care \, Home Improvement \, Groceries
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160907
+DTEND;VALUE=DATE:20160908
+DTSTAMP:20231016T211006Z
+UID:CSVConvert44a59db9c54e45078109bfb3b766b821
+CREATED:19000101T120000Z
+DESCRIPTION:$23.00 - Salon Armetta - Scottsdale Azus : Pos Transaction\n$30
+ .00 - Transfer\n$20.00 - Oneaz Cu 6501 E Greenway - Scottsdale Azus : Share
+  Withdrawal\n$30.00 - Transfer\n$12.45 - Trader Joe's\n$23.00 - Salon Armet
+ ta - Scottsdale Azus : Pos Transaction\n$30.00 - Transfer\n$20.00 - Oneaz C
+ u 6501 E Greenway - Scottsdale Azus : Share Withdrawal\n$30.00 - Transfer\n
+ $12.45 - Trader Joe's\n$40.00 - Deposit\n$166.54 - Solar Integrated Des:ech
+ eckpay Id:txidxxxxxxx2566 Indn:brian Cullinan Co Id:f472\n$86.00 - T-mobile
+ \n$30.00 - Transfer\n$30.00 - Transfe
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$583.44 - Personal Care \, Transfers \, ATM/Cash \, Groceries \, De
+ posits \, Utilities \, Telephone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160929
+DTEND;VALUE=DATE:20160930
+DTSTAMP:20231016T211006Z
+UID:CSVConvert479036af2ce3012b87a32701e618157a
+CREATED:19000101T120000Z
+DESCRIPTION:$49.93 - Eddie Vs Xx08 - Scottsdale Azus : Pos Transaction\n$7.
+ 55 - Eddie Vs Xx08 - Scottsdale Azus : Pos Transaction\n$7.55 - Eddie Vs Xx
+ 08 - Scottsdale Azus : Pos Transaction\n$49.93 - Eddie Vs Xx08 - Scottsdale
+  Azus : Pos Transaction\n$29.56 - Panera Brea
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$144.52 - Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160920
+DTEND;VALUE=DATE:20160921
+DTSTAMP:20231016T211006Z
+UID:CSVConvert48f848456943a1c42997c4c6f2c0e746
+CREATED:19000101T120000Z
+DESCRIPTION:$75.00 - Pp*south By Southw - Xxx-xxx-2244 Azus : Pos Transacti
+ on\n$21.35 - Rocks On The Roof\n$75.00 - Pp*south By Southw - Xxx-xxx-2244 
+ Azus : Pos Transaction\n$21.35 - Rocks On The Roof\n$465.65 - Regular Payme
+ nt\n$5.00 - Overdraft Fee Credit\n$9.99 - Google\n$465.65 - Nissan\n$192.40
+  - City Of Phoenix Az Bill Payment\n$16.50 - Trader Joe's\n$21.95 - Rock Sp
+ rings Rock - Springs Azus : Pos Transaction\n$132.01 - Cowboy Club Sedona -
+  Azus : Pos Transactio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Auto - Ending in 0
+ 001 \, Bank Of America Core Checking - Ending in 6063 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$1\,501.85 - Uncategorized \, Restaurants \, Credit Card Payments \
+ , Service Charges/Fees \, Online Services \, Automotive \, Other Bills \, G
+ roceries
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160917
+DTEND;VALUE=DATE:20160918
+DTSTAMP:20231016T211006Z
+UID:CSVConvert526765571626abe6456b20c73d4dca26
+CREATED:19000101T120000Z
+DESCRIPTION:$28.33 - Shell\n$28.33 - Shel
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$56.66 - Gasoline/Fuel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160912
+DTEND;VALUE=DATE:20160913
+DTSTAMP:20231016T211006Z
+UID:CSVConvert586e7be797ad38ccf665eb8eebdae695
+CREATED:19000101T120000Z
+DESCRIPTION:$0.01 - Menchies Frozen\n$14.32 - Einstein Bros\n$40.00 - Trans
+ fer\n$14.32 - Einstein Bros\n$40.00 - Transfer\n$4.00 - Sky Harbor Parking 
+ Phoenix - Azus : Pos Transaction\n$40.00 - Transfer\n$7.00 - Menchies Froze
+ n\n$0.01 - Menchies Frozen\n$5.00 - Overdraft Fee Sv - Fe
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Share Savings - Ending in : 00 \, Arizona Checking - 75 \, Line Of
+  Credit - 75 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$164.66 - Restaurants \, Transfers \, Travel \, Service Charges/Fee
+ s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160913
+DTEND;VALUE=DATE:20160914
+DTSTAMP:20231016T211006Z
+UID:CSVConvert794ffae82f3b6c98d1a6ac9024bf6b98
+CREATED:19000101T120000Z
+DESCRIPTION:$648.00 - Deposits\n$80.00 - Transfer\n$31.27 - Tealight Cafe P
+ hoenix - Azus : Pos Transaction\n$7.56 - Sq *jerusalem Bake - Scottsdale Az
+ us : Pos Transaction\n$16.08 - Arco\n$22.46 - Osha Thai\n$648.00 - Deposits
+ \n$80.00 - Transfer\n$31.27 - Tealight Cafe Phoenix - Azus : Pos Transactio
+ n\n$7.56 - Sq *jerusalem Bake - Scottsdale Azus : Pos Transaction\n$16.08 -
+  Arco\n$22.46 - Osha Thai\n$80.00 - Transfer\n$50.00 - Transfer\n$530.77 - 
+ The Peak
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$2\,271.51 - Paychecks/Salary \, Transfers \, Restaurants \, Gasoli
+ ne/Fuel
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160908
+DTEND;VALUE=DATE:20160909
+DTSTAMP:20231016T211006Z
+UID:CSVConvert85cbe93a9c4e06ac7ff9ad8c7e913280
+CREATED:19000101T120000Z
+DESCRIPTION:$20.00 - Transfer\n$34.30 - Adobe\n$20.00 - Transfer\n$34.30 - 
+ Adobe\n$113.00 - All-star Grooming - Scottsdale Azus : Pos Transaction\n$20
+ .00 - Transfe
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$241.60 - Transfers \, Online Services \, Pets/Pet Care
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160924
+DTEND;VALUE=DATE:20160925
+DTSTAMP:20231016T211006Z
+UID:CSVConvert8738d2ad99063d94e194acef01df951a
+CREATED:19000101T120000Z
+DESCRIPTION:$53.00 - Osha Thai\n$15.00 - Keys Distribution - Xxx-xxx-1596 C
+ aus : Pos Transaction\n$10.77 - Itsugar Scottsdale - Scottsdale Azus : Pos 
+ Transaction\n$31.99 - Ciao\n$44.55 - Ciao\n$39.28 - Target\n$11.99 - Paypal
+ \n$39.28 - Target\n$53.00 - Osha Thai\n$15.00 - Keys Distribution - Xxx-xxx
+ -1596 Caus : Pos Transaction\n$10.77 - Itsugar Scottsdale - Scottsdale Azus
+  : Pos Transaction\n$44.55 - Ciao\n$31.99 - Ciao\n$11.99 - Paypa
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$413.16 - Restaurants \, Education \, Groceries \, General Merchand
+ ise \, Online Services
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160918
+DTEND;VALUE=DATE:20160919
+DTSTAMP:20231016T211006Z
+UID:CSVConvert8dd53885e7675049b56188995f5ee954
+CREATED:19000101T120000Z
+DESCRIPTION:$13.98 - Mcdonald'
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$13.98 - Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160922
+DTEND;VALUE=DATE:20160923
+DTSTAMP:20231016T211006Z
+UID:CSVConvert8e84455a42d7432023b9398e9109b217
+CREATED:19000101T120000Z
+DESCRIPTION:$38.79 - Whole Foods\n$10.00 - Google Voice\n$38.79 - Whole Foo
+ ds\n$10.00 - Google Voice\n$61.79 - Xi Clothing Co X1001 North - Tatum Phoe
+ nix Azus : Pos Transactio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$159.37 - Groceries \, Telephone \, Clothing/Shoes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160916
+DTEND;VALUE=DATE:20160917
+DTSTAMP:20231016T211006Z
+UID:CSVConvert979df5121f0619bdf9bb001854028bad
+CREATED:19000101T120000Z
+DESCRIPTION:$45.00 - Transfer\n$4.25 - Kona Coffee\n$53.57 - Adobe\n$45.00 
+ - Transfer\n$4.25 - Kona Coffee\n$53.57 - Adobe\n$300.00 - Transfer\n$69.38
+  - Osha Thai\n$45.00 - Transfe
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$620.02 - Transfers \, Restaurants \, Online Services
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160926
+DTEND;VALUE=DATE:20160927
+DTSTAMP:20231016T211006Z
+UID:CSVConvert9dd0a814bab4a35adf2204b50c69d14c
+CREATED:19000101T120000Z
+DESCRIPTION:$20.00 - Harkins Theatres\n$55.76 - P.f. Chang's\n$78.15 - Cvs 
+ Pharmacy\n$110.76 - Ulta\n$23.89 - Cvs Pharmacy\n$107.51 - Ulta\n$10.30 - R
+ oss Stores #xx X1001 N Tatum - Blvd Phoenix Azus : Pos Transaction\n$15.31 
+ - Menchies Frozen\n$28.69 - Macy's\n$15.31 - Menchies Frozen\n$28.69 - Macy
+ 's\n$20.00 - Harkins Theatres\n$55.76 - P.f. Chang's\n$78.15 - Cvs Pharmacy
+ \n$110.76 - Ulta\n$23.89 - Cvs Pharmacy\n$10.30 - Ross Stores #xx X1001 N T
+ atum - Blvd Phoenix Azus : Pos Transaction\n$690.00 - Customer Withdrawal I
+ mage\n$30.00 - Internet Access 09/26/xx16 - 16:01 X3775 : Payment Toxxxxxxx
+ x4-75
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$1\,513.23 - Entertainment \, Restaurants \, Healthcare/Medical \, 
+ Personal Care \, Home Improvement \, Clothing/Shoes \, ATM/Cash \, Transfer
+ s
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161001
+DTEND;VALUE=DATE:20161002
+DTSTAMP:20231016T211006Z
+UID:CSVConvert9f11a15ce6838fe603e289d292c880a6
+CREATED:19000101T120000Z
+DESCRIPTION:$30.39 - Fry's Food Store\n$30.39 - Fry's Food Stor
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$60.78 - Groceries
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160905
+DTEND;VALUE=DATE:20160906
+DTSTAMP:20231016T211006Z
+UID:CSVConvert9fa0f7d4d73d6e359c88dec3fd4390fb
+CREATED:19000101T120000Z
+DESCRIPTION:$12.00 - Amazon.com\n$12.00 - Amazon.com\n$12.00 - Amazon.com\n
+ $12.00 - Amazon.com\n$16.34 - Arizona Handmade G - Flagstaff Azus : Pos Tra
+ nsactio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$64.34 - Online Services \, Gifts
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160928
+DTEND;VALUE=DATE:20160929
+DTSTAMP:20231016T211006Z
+UID:CSVConverta41bc0988b0453512bcff2fcfffbdd98
+CREATED:19000101T120000Z
+DESCRIPTION:$5.02 - Walmart\n$26.83 - Albertsons\n$26.83 - Albertsons\n$5.0
+ 2 - Walmart\n$13.68 - In-n-out Burger\n$212.99 - Guess\n$25.26 - Marshall
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$315.63 - General Merchandise \, Groceries \, Restaurants \, Clothi
+ ng/Shoes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161003
+DTEND;VALUE=DATE:20161004
+DTSTAMP:20231016T211006Z
+UID:CSVConverta5334bdfe9d11a748ab9599f6ef9ec98
+CREATED:19000101T120000Z
+DESCRIPTION:$20.00 - Transfer\n$4.25 - Harkins Theatres\n$15.25 - Harkins T
+ heatres\n$20.00 - Transfer\n$4.25 - Harkins Theatres\n$15.25 - Harkins Thea
+ tres\n$1\,000.00 - Cash Withdrawal\n$20.00 - Transfer\n$700.00 - Deposit\n$
+ 23.00 - Harkins Theatres\n$66.59 - Toasted Owl Cafe - Flagstaff Azus : Pos 
+ Transactio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$1\,888.59 - Transfers \, Entertainment \, ATM/Cash \, Deposits \, 
+ Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160915
+DTEND;VALUE=DATE:20160916
+DTSTAMP:20231016T211006Z
+UID:CSVConvertc3d7c376b1c1bc842956c02eba0a6e8f
+CREATED:19000101T120000Z
+DESCRIPTION:$66.00 - Deposits\n$15.98 - In-n-out Burger\n$65.81 - Geico\n$6
+ 6.00 - Deposits\n$15.98 - In-n-out Burger\n$65.81 - Geico\n$2\,706.97 - Stu
+ dy Sauce Des:payroll Id:xxxxxxxx-xx39-0 Indn:brian Cullinan Co Id:146
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$3\,002.55 - Paychecks/Salary \, Restaurants \, Insurance
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160909
+DTEND;VALUE=DATE:20160910
+DTSTAMP:20231016T211006Z
+UID:CSVConvertc95c885787f2cda39d0428cae3caf44f
+CREATED:19000101T120000Z
+DESCRIPTION:$723.70 - Deposits\n$500.00 - Transfer\n$30.00 - Transfer\n$90.
+ 00 - Transfer\n$7.60 - Trader Joe's\n$30.19 - Chevron\n$723.70 - Deposits\n
+ $500.00 - Transfer\n$30.00 - Transfer\n$90.00 - Transfer\n$7.60 - Trader Jo
+ e's\n$30.19 - Chevron\n$500.00 - Transfer\n$30.00 - Transfer\n$90.00 - Tran
+ sfer\n$10.11 - Mcdonald's\n$600.00 - Withdrawal\n$10.00 - Skyp
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$4\,003.09 - Paychecks/Salary \, Transfers \, Groceries \, Gasoline
+ /Fuel \, Restaurants \, ATM/Cash \, Online Services
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160930
+DTEND;VALUE=DATE:20161001
+DTSTAMP:20231016T211006Z
+UID:CSVConvertcb8f5c0481ee54e7a47d9547dab59b6e
+CREATED:19000101T120000Z
+DESCRIPTION:$9.25 - Mcdonald's\n$30.54 - Chevron\n$2.01 - Tuesday Morning\n
+ $47.00 - Transfer\n$6.04 - Wetzel's Pretzels\n$9.25 - Mcdonald's\n$30.54 - 
+ Chevron\n$2.01 - Tuesday Morning\n$47.00 - Transfer\n$6.04 - Wetzel's Pretz
+ els\n$2\,706.98 - Study Sauce Des:payroll Id:xxxxxxxx-xx39-0 Indn:brian Cul
+ linan Co Id:1462\n$158.46 - Mastro's Restaurants\n$47.00 - Transfer\n$20.06
+  - Adob
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$3\,122.18 - Restaurants \, Gasoline/Fuel \, Home Improvement \, Tr
+ ansfers \, Paychecks/Salary \, Online Services
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160911
+DTEND;VALUE=DATE:20160912
+DTSTAMP:20231016T211006Z
+UID:CSVConvertdb736ccf3f8d591a4c73aab9cf194b60
+CREATED:19000101T120000Z
+DESCRIPTION:$6.00 - Transfer\n$2.00 - Transfer\n$20.00 - Transfer\n$8.00 - 
+ Transfer\n$6.00 - Transfer\n$2.00 - Transfer\n$20.00 - Transfer\n$8.00 - Tr
+ ansfer\n$2.95 - Safeway\n$6.00 - Transfer\n$2.00 - Transfer\n$4.00 - Intern
+ et Access 09/11/xx16 - 12:34 Xx4451 : Loan Advance From 4xxxxxxx4-75l\n$20.
+ 00 - Transfer\n$8.00 - Transfer\n$67.47 - Pino Phoenix - Azus : Pos Transac
+ tio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$182.42 - Transfers \, Groceries \, Other Income \, Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160925
+DTEND;VALUE=DATE:20160926
+DTSTAMP:20231016T211006Z
+UID:CSVConvertdce1b0af9f979171522d627d8f586884
+CREATED:19000101T120000Z
+DESCRIPTION:$15.02 - Shell\n$31.52 - Rock Springs Rock - Springs Azus : Pos
+  Transaction\n$26.25 - Rocks On The Roof\n$26.25 - Rocks On The Roof\n$15.0
+ 2 - Shell\n$31.52 - Rock Springs Rock - Springs Azus : Pos Transactio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$145.58 - Gasoline/Fuel \, Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160923
+DTEND;VALUE=DATE:20160924
+DTSTAMP:20231016T211006Z
+UID:CSVConvertddbf7f92ebd184e9e91439c980642665
+CREATED:19000101T120000Z
+DESCRIPTION:$738.37 - Deposits\n$60.00 - Transfer\n$26.00 - Internet Access
+  09/22/xx16 - 23:39 X0863 : Payment Toxxxxxxxx4-75l\n$738.37 - Deposits\n$6
+ 0.00 - Transfer\n$26.00 - Internet Access 09/22/xx16 - 23:39 X0863 : Paymen
+ t Toxxxxxxxx4-75l\n$60.00 - Transfe
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$1\,708.74 - Paychecks/Salary \, Transfers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160914
+DTEND;VALUE=DATE:20160915
+DTSTAMP:20231016T211006Z
+UID:CSVConverted6369a98d7d482348d91f9b400e94f2
+CREATED:19000101T120000Z
+DESCRIPTION:$10.00 - Transfer\n$10.00 - Transfer\n$100.00 - Internet Access
+  09/14/xx16 - 08:10 Xx4647 : Payment Toxxxxxxxx4-75l\n$20.00 - Internet Acc
+ ess 09/14/xx16 - 08:12 Xx4657 : Payment Toxxxxxxxx4-75l\n$6.08 - Tuesday Mo
+ rning\n$28.34 - Jet.com\n$150.28 - Eddie Merlot's\n$10.00 - Transfer\n$10.0
+ 0 - Transfer\n$100.00 - Internet Access 09/14/xx16 - 08:10 Xx4647 : Payment
+  Toxxxxxxxx4-75l\n$20.00 - Internet Access 09/14/xx16 - 08:12 Xx4657 : Paym
+ ent Toxxxxxxxx4-75l\n$6.08 - Tuesday Morning\n$28.34 - Jet.com\n$150.28 - E
+ ddie Merlot's\n$92.54 - Verizon Wireless\n$10.00 - Transfe
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Share Savings - Ending in : 00 \, Arizona Checking - 75 \, Share S
+ avings - 00 \, Line Of Credit - 75 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$751.94 - Transfers \, Home Improvement \, General Merchandise \, R
+ estaurants \, Telephone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160921
+DTEND;VALUE=DATE:20160922
+DTSTAMP:20231016T211006Z
+UID:CSVConvertf0d1efcc9eee4d2cef12e70abc17d16a
+CREATED:19000101T120000Z
+DESCRIPTION:$300.00 - Deposits\n$28.12 - Chevron\n$50.00 - Withdrawal\n$46.
+ 88 - Costco Wholesale\n$300.00 - Deposits\n$28.12 - Chevron\n$50.00 - Withd
+ rawal\n$46.88 - Costco Wholesale\n$36.90 - Google\n$486.00 - Deposits\n$23.
+ 26 - Chipotl
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$1\,396.16 - Paychecks/Salary \, Gasoline/Fuel \, ATM/Cash \, Gener
+ al Merchandise \, Online Services \, Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161002
+DTEND;VALUE=DATE:20161003
+DTSTAMP:20231016T211006Z
+UID:CSVConvertf8c3ad2293a14a5a2a242dc7244812a3
+CREATED:19000101T120000Z
+DESCRIPTION:$30.25 - Shell\n$53.17 - Cracker Barrel\n$59.69 - Rock Springs 
+ Rock - Springs Azus : Pos Transactio
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$143.11 - Gasoline/Fuel \, Restaurants
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160919
+DTEND;VALUE=DATE:20160920
+DTSTAMP:20231016T211006Z
+UID:CSVConvertfc1a3647fcb1dda6ac72c7d34697f0be
+CREATED:19000101T120000Z
+DESCRIPTION:$300.00 - Cash Withdrawal\n$285.68 - Aps - Arizona Public Servi
+ ce Bill Payment\n$3.00 - Transfer\n$14.75 - Harkins Theatre
+LAST-MODIFIED:20161005T035346Z
+LOCATION:Bank Of America Core Checking - Ending in 6063 \, Arizona Checking
+  - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$603.43 - ATM/Cash \, Cable/Satellite \, Transfers \, Entertainment
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161011
+DTEND;VALUE=DATE:20161012
+DTSTAMP:20231016T211006Z
+UID:11325ad7-c0cb-4494-94dc-a2cfbc69ede6___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:- Josephine - Shell - Paypal - Hippie Gypsy #1 Tempe - Azus : P
+ os Transaction - Internet Access 10/11/xx16 - 12:02 Xx4083 : Payment Toxxxx
+ xxxx4-41l - Josephine - Shell - Paypal - Hippie Gypsy #1 Tempe - Azus : Pos
+  Transaction - Internet Access 10/11/xx16 - 12:02 Xx4083 : Payment Toxxxxxx
+ xx4-41l - Internet Access 10/11/xx16 - 12:02 Xx4083 : Payment From 4xxxxxxx
+ 4-75s$397.81 - Square\, Inc - Cash Withdrawal - Internet Access 10/11/xx16 
+ - 12:05 Xx4096 : Payment Toxxxxxxxx4-75l - Advanced Auto Xx94 - Scottsdale 
+ Azus : Pos Transaction - Transfer$293.66 - The Peak
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, 2008 Chevrolet Mal
+ ib - Ending in : 41 \, Bank Of America Core Checking - Ending in 6063 \, Ar
+ izona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$25.40 - Restaurants \, Gasoline/Fuel \, Online Services \, Uncateg
+ orized \, Transfers \, Deposits \, Credit Card Payments \, ATM/Cash \, Auto
+ motive
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161007
+DTEND;VALUE=DATE:20161008
+DTSTAMP:20231016T211006Z
+UID:5183b5de-2cd4-44bb-a128-cfa4a2d7a079___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:$660.08 - Deposits - Transfer - Google$660.08 - Deposits - Tran
+ sfer - Google - Loan Payment - Basil & Garlic Bis - Scottsdale Azus : Pos T
+ ransaction - Basil & Garlic Bis - Scottsdale Azus : Pos Transaction$160.00 
+ - Transfer - Fired Pie-gh - Scottsdale Azus : Pos Transactio
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, 2008 Chevrolet Mal
+ ib - Ending in : 41 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$1\,092.51 - Paychecks/Salary \, Transfers \, Online Services \, L
+ oans \, Restaurants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161009
+DTEND;VALUE=DATE:20161010
+DTSTAMP:20231016T211006Z
+UID:806cd79f-e8bf-4e51-885d-1f8a5069cc78___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:- Shell - Cracker Barrel - Rocks On The Roof - Cracker Barrel -
+  Rocks On The Roof - Shell - Cracker Barrel - Wildflower Bread 0 - Scottsda
+ le Azus : Pos Transactio
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$243.84 - Gasoline/Fuel \, Restaurants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161005
+DTEND;VALUE=DATE:20161006
+DTSTAMP:20231016T211006Z
+UID:baa15778-fc69-422d-b201-8abebb3f2c4c___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:- Solar Integrated Des:echeckpay Id:txidxxxxxxx0381 Indn:brian 
+ Cullinan Co Id:f472 - Mcdonald's - Cvs Pharmacy - Osha Tha
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Bank Of America Core Checking - Ending in 6063 \, Arizona Checking
+  - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$220.91 - Uncategorized \, Restaurants \, Healthcare/Medical
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161004
+DTEND;VALUE=DATE:20161005
+DTSTAMP:20231016T211006Z
+UID:ca1841fa-3bc2-4c74-b4a9-0eb894b629b0___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:$44.13 - Principal Pmt$1\,505.87 - Payment - Wells Fargo - Cent
+ urylink - Paypal - Paypal - Chevron - Fastrak - Chevron - Cvs Pharmac
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Mortgage - 7001 \, Bank Of America Core Checking - Ending in 6063 
+ \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$236.05 - Loans \, Credit Card Payments \, Mortgages \, Cable/Sate
+ llite \, Online Services \, Gasoline/Fuel \, Travel \, Healthcare/Medical
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161012
+DTEND;VALUE=DATE:20161013
+DTSTAMP:20231016T211006Z
+UID:d25ec50e-b356-499c-b845-1da251eb53ca___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:$260.00 - Transfer$260.00 - Transfer - Transfer - Vitos Pizza -
+  Safeway$18.00 - Deposits - Royal Palms Resort Phoenix - Azus : Pos Transac
+ tio
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$130.35 - Transfers \, Restaurants \, Groceries \, Paychecks/Salary
+  \, Travel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161006
+DTEND;VALUE=DATE:20161007
+DTSTAMP:20231016T211006Z
+UID:da6f4cb8-d69a-46aa-b516-948e5bdd2400___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:- Googl
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Bank Of America Core Checking - Ending in 6063
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$2.50 - Online Services
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161010
+DTEND;VALUE=DATE:20161011
+DTSTAMP:20231016T211006Z
+UID:dfb85e8e-0fa4-42ea-ae59-812673bcf423___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:- Mcdonald's - Skype - Mcdonald's - Skype - Oneaz Cu 6501 E Gre
+ enway - Scottsdale Azus : Share Withdrawal - P.f. Chang's - Fry's Food Stor
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$314.06 - Restaurants \, Online Services \, ATM/Cash \, Groceries
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161008
+DTEND;VALUE=DATE:20161009
+DTSTAMP:20231016T211006Z
+UID:fb3c8bf8-d01f-4843-b11e-38c7a1e07c7a___n8henrie.com
+CREATED:20161013T231945Z
+DESCRIPTION:- T-mobile - Adobe - T-mobile - Adobe - Pita Cafe 2 Llc - Scott
+ sdale Azus : Pos Transactio
+LAST-MODIFIED:20161013T232025Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$350.31 - Telephone \, Online Services \, Restaurants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161014
+DTEND;VALUE=DATE:20161015
+DTSTAMP:20231016T211006Z
+UID:0f2e0cf7-c845-496d-bf2d-bc2169a4c36b___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:-$44.86 - Chinese Restaurants-$75.48 - Aj's #xxx Xxx31 - N.thom
+ pson P Scottsdale Azus : Pos Transaction-$75.48 - Aj's #xxx Xxx31 - N.thomp
+ son P Scottsdale Azus : Pos Transaction-$44.86 - Chinese Restaurants$2\,706
+ .99 - Study Sauce Des:payroll Id:xxxxxxxx-xx39-0 Indn:brian Cullinan Co Id:
+ 1462
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$44.86 - Restaurants \, Paychecks/Salary
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161017
+DTEND;VALUE=DATE:20161018
+DTSTAMP:20231016T211006Z
+UID:2210e109-f86f-40b8-bd24-8d23002cce4c___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:-$125.97 - Perfumania-$48.87 - Macy's-$172.88 - Zinc Bistro - S
+ cottsdale Azus : Pos Transaction-$13.06 - Amazon.com-$4.33 - Amazon.com$30.
+ 00 - Transfer$6.00 - Transfer-$7.99 - Costco Gas-$118.63 - Target-$125.97 -
+  Perfumania-$48.87 - Macy's-$172.88 - Zinc Bistro - Scottsdale Azus : Pos T
+ ransaction-$13.06 - Amazon.com-$4.33 - Amazon.com$30.00 - Transfer$6.00 - T
+ ransfer-$7.99 - Costco Gas-$118.63 - Target-$164.37 - City Of Phoenix Az Bi
+ ll Payment-$280.02 - Aps - Arizona Public Service Bill Payment-$10.63 - Lin
+ kedin-$30.00 - Transfer-$6.00 - Transfer
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063 \, Arizona Checking - Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$125.97 - Personal Care \, Clothing/Shoes \, Restaurants \, Genera
+ l Merchandise \, Entertainment \, Transfers \, Gasoline/Fuel \, Utilities \
+ , Dues & Subscriptions
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161015
+DTEND;VALUE=DATE:20161016
+DTSTAMP:20231016T211006Z
+UID:28c2c666-2206-452f-8580-fc37dcb98763___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:-$9.22 - Aj's #xxx Xxx31 - N.thompson P Scottsdale Azus : Pos T
+ ransaction-$9.22 - Aj's #xxx Xxx31 - N.thompson P Scottsdale Azus : Pos Tra
+ nsaction
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$9.22 - Restaurants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161016
+DTEND;VALUE=DATE:20161017
+DTSTAMP:20231016T211006Z
+UID:a448375f-2b69-4149-ab10-04d272aebf2f___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:-$24.74 - Z Gallerie\, Inc-$29.65 - Chevron-$63.00 - Cracker Ba
+ rrel-$19.82 - Shell-$24.74 - Z Gallerie\, Inc-$29.65 - Chevron-$63.00 - Cra
+ cker Barrel-$19.82 - Shell
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$24.74 - Home Improvement \, Gasoline/Fuel \, Restaurants
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161018
+DTEND;VALUE=DATE:20161019
+DTSTAMP:20231016T211006Z
+UID:cd05911e-b7be-4af2-8315-aef95f5338dd___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:-$2\,500.00 - Withdrawal-$14.75 - Paypal-$24.84 - Paypal-$0.04 
+ - Internet Access 10/18/xx16 - 18:25 Xx3622 : Payment Toxxxxxxxx4-75l-$41.1
+ 1 - Persian Room - Scottsdale Azus : Pos Transaction-$10.85 - Sq *yucatecan
+  Impo Phoenix - Azus : Pos Transaction-$15.19 - Sq *yucatecan Impo Phoenix 
+ - Azus : Pos Transaction-$4.87 - Paradise Bakery And Cafe-$203.45 - Tutti S
+ anti - Scottsdale Azus : Pos Transaction-$10.85 - Sq *yucatecan Impo Phoeni
+ x - Azus : Pos Transaction-$15.19 - Sq *yucatecan Impo Phoenix - Azus : Pos
+  Transaction-$4.87 - Paradise Bakery And Cafe-$203.45 - Tutti Santi - Scott
+ sdale Azus : Pos Transaction-$2\,500.00 - Withdrawal-$14.75 - Paypal-$24.84
+  - Paypal-$0.04 - Internet Access 10/18/xx16 - 18:25 Xx3622 : Payment Toxxx
+ xxxxx4-75l-$41.11 - Persian Room - Scottsdale Azus : Pos Transaction$2\,500
+ .00 - Deposit
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Bank Of America Co
+ re Checking - Ending in 6063
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$2\,500.00 - ATM/Cash \, Online Services \, Transfers \, Restauran
+ ts \, Uncategorized \, Deposits
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161019
+DTEND;VALUE=DATE:20161020
+DTSTAMP:20231016T211006Z
+UID:d5cdfa32-4865-4fb6-b267-6307b0e38bed___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:-$10.36 - Dairy Queen-$33.28 - Google-$29.27 - Tealight Cafe Ph
+ oenix - Azus : Pos Transaction-$124.71 - Walmart-$10.36 - Dairy Queen-$33.2
+ 8 - Google-$29.27 - Tealight Cafe Phoenix - Azus : Pos Transaction-$124.71 
+ - Walmart$486.00 - Deposits-$21.13 - Safeway Fuel Station
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:-$10.36 - Restaurants \, Online Services \, General Merchandise \, 
+ Paychecks/Salary \, Gasoline/Fuel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161013
+DTEND;VALUE=DATE:20161014
+DTSTAMP:20231016T211006Z
+UID:ee506d75-4c4a-4439-aab3-e35174d1eaab___n8henrie.com
+CREATED:20161020T035038Z
+DESCRIPTION:$5\,000.00 - Deposit-$188.00 - Transfer-$262.94 - Google-$5.00 
+ - Wpy*help For Jaime - Xxx-xxx-3729 Caus : Pos Transaction$5\,000.00 - Depo
+ sit-$188.00 - Transfer-$262.94 - Google-$5.00 - Wpy*help For Jaime - Xxx-xx
+ x-3729 Caus : Pos Transaction$200.00 - Deposit$188.00 - Transfer
+LAST-MODIFIED:20161020T035054Z
+LOCATION:Arizona Checking - 75 \, Line Of Credit - 75 \, Arizona Checking -
+  Ending in : 75
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:$5\,000.00 - Deposits \, Transfers \, Online Services \, Charitable
+  Giving \, Uncategorized
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
